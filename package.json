@@ -1,0 +1,23 @@
+{
+  "name": "marvinMa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvinma-mw/w6D2paringWithMarvinMa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marvinma-mw/w6D2paringWithMarvinMa/issues"
+  },
+  "homepage": "https://github.com/marvinma-mw/w6D2paringWithMarvinMa#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
